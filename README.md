@@ -1,12 +1,12 @@
 <div align="center">
 
   # <b>SAHAND SABET</b>
-  ### `AI/ML Specialist & Systems Architect`
+  ### `Software Developer & AI/ML Enthusiast`
 
   <p><em>Building end-to-end Machine Learning pipelines & scalable backend architectures.</em></p>
   
   <p align="center">
-    <code>Python</code> | <code>C++</code> | <code>Java</code> | <code>React</code> | <code>AdonisJS</code> | <code>PostgreSQL</code>
+    <code>Python</code> | <code>C++</code> | <code>Java</code> | <code>Software Development</code> | <code>Machine Learning</code> | <code>Full-Stack</code>
   </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahand-sabet-09a299272) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/sahandsabet) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahandsabet85@gmail.com)
@@ -62,6 +62,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" alt="matplotlib" />
+    <br />
+    <sub>Scikit-learn · NumPy · Pandas · Matplotlib · TensorFlow · Keras</sub>
   </p>
 </details>
 
@@ -69,8 +71,10 @@
   <summary><b>🌐 Full-Stack, Frameworks & Databases</b></summary>
   <br />
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,postgres,mysql,php&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,postgres,mysql,php&theme=dark" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" height="48" alt="adonisjs" />
+    <br />
+    <sub>React · HTML · CSS · PostgreSQL · MySQL · PHP · AdonisJS</sub>
   </p>
 </details>
 
@@ -78,7 +82,9 @@
   <summary><b>🔧 Developer Tools & Infrastructure</b></summary>
   <br />
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,bash,docker,azure&theme=dark" />
+    <br />
+    <sub>Postman · Git · GitHub · VS Code · Linux · Bash · Docker · Azure</sub>
   </p>
 </details>
 
@@ -109,7 +115,7 @@
 
 <div align="center">
 
-  <p>⚡ <i>I have no idea about here (for now)</i></p>
+  <p>⚡ <i>Always learning. Always building.</i></p>
 
   <br />
 
