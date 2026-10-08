@@ -51,6 +51,8 @@
   <br />
   <p align="left">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark" />
+    <br />
+    <sub>Python · C++ · Java · JavaScript</sub>
   </p>
 </details>
 
